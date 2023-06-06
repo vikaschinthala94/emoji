@@ -1,0 +1,137 @@
+.face{
+    height: 250px;
+    width:250px;
+    border-radius:50%;
+    background-color: #c7c962;
+    margin: auto;
+    margin-top: 10%;
+    box-shadow: 3px 3px 3px 3px rgb(130, 128, 128);
+    position: relative;    
+}
+.eyes{
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    width: 250px;
+    margin-top: 10%;
+}
+#reye{
+    height: 30px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: aliceblue;
+    margin-top: 20%;
+    margin: left 20%; 
+}
+#leye{
+    height: 30px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: aliceblue;
+    margin-top: 20%;
+    margin: left 50%; 
+}
+#reyes{
+    height: 20px;
+    width: 45px;
+    border-radius: 50%;
+    background-color: #c7c962;
+    margin-top: 25%;
+    margin: left 20%; 
+}
+#leyes{
+    height: 30px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: #c7c962;
+    margin-top: 20%;
+    margin: left 50%; 
+}
+
+.mouth{
+    display: flex;
+    position: absolute;
+    width: 250px;
+    margin-top: 10%;
+    
+}
+#tmouth{
+    height: 50px;
+    width: 50px;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 60%;
+    background-color: aliceblue;
+    margin-top: 40%;
+    margin-left: 50%; 
+}
+.bmouth{
+    display: flex;
+    position: absolute;
+    width: 250px;
+    margin-top: 10%;
+    
+}
+#bmouth{
+    height: 50px;
+    width: 50px;
+    border-top-right-radius: 60%;
+    border-bottom-right-radius: 60%;
+    background-color: aliceblue;
+    margin-top: 60%;
+    margin-left: 50%; 
+}
+
+.hider{
+    display: flex;
+    position: absolute;
+    width: 250px;
+    margin-top: 10%;
+    
+}
+#thider{
+    height: 50px;
+    width: 30px;
+    border-top-right-radius: 60%;
+    border-bottom-right-radius: 60%;
+    
+    background-color: #c7c962;
+    margin-top: 30%;
+    margin-left: 50%; 
+}
+.bhider{
+    display: flex;
+    position: absolute;
+    width: 250px;
+    margin-top: 10%;
+    
+}
+#bhider{
+    height: 50px;
+    width: 30px;
+    border-top-right-radius: 60%;
+    border-bottom-right-radius: 60%;
+    background-color: #c7c962; 
+    margin-top: 50%;
+    margin-left: 50%; 
+}
+.h1{
+    display: flex;
+    position: absolute;
+    width: 300px;
+    margin-top: 10%;
+    
+}
+#h2{
+    height: 50px;
+    width: 300px;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background-color: rgb(198, 33, 55);
+    margin-top: 30%;
+    margin-left: 70%; 
+}
+
+
+
+
+
